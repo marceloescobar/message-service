@@ -1,0 +1,1 @@
+Exemplo simples de utilização de troca de mensagens com rabbitMQ
